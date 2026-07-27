@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-iznrpa.koi888.sbs/sitemap.xml
